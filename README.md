@@ -1,7 +1,8 @@
 # Oi, seja bem vindo ao meu perfil 😁🤙
 
 - 🔭 Atualmente trabalho com Java/Ruby
-- 🌱 No momento estudo o BackEnd com foco em Java
+- 🌱 No momento meu foco é em Desenvolvimento Web
+- 👨‍🎓 Cursando Engenharia de Software - UP 
   
 
 <div style="display: inline_block"><br>
