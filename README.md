@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Java/Ruby
 - 🌱 No momento meu foco é em Desenvolvimento Web
-- 👨‍🎓 Cursando Engenharia de Software - UP 
+- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas - UP 
   
 
 <div style="display: inline_block"><br>
