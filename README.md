@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com Java/JavaScript/Python. 
 - 🌱 No momento meu foco é melhorar como desenvolvedor a cada dia.
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas - UP 
-- 🤖 
+
   
 
 <div style="display: inline_block"><br>
