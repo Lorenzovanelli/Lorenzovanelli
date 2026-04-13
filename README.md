@@ -26,6 +26,4 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lorenzovanelli&theme=tokyonight" alt="Resumo do Perfil" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzovanelli&layout=compact&show_icons=true&theme=github_dark)](https://github.com/Lorenzovanelli)
-
 ---
