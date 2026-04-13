@@ -1,8 +1,9 @@
 # Oi, seja bem vindo ao meu perfil 😁🤙
 
-- 🔭 Atualmente trabalho com Java/Ruby
-- 🌱 No momento meu foco é em Desenvolvimento Web
+- 🔭 Atualmente trabalho com Java/JavaScript/Python. 
+- 🌱 No momento meu foco é melhorar como desenvolvedor a cada dia.
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas - UP 
+- 🤖 
   
 
 <div style="display: inline_block"><br>
